@@ -1,5 +1,5 @@
 # LeNet-5_1998_pytorch
-by jaeminiman
+by jaeminiman  
 LeNet-5 1988 version(pytorch)
 
 ## LeNet-5
@@ -19,6 +19,10 @@ There are some details of model which can be easy to missed. Because those are n
 
 ### 2. partial connected convolutional layer
   - Feature maps in Layer C3 are not fully connected with all feature maps from S2.
-  - In order to set the number of parameters to 60,000 (same with training dataset)
-  
+  - In order to set the number of parameters to 60,000 (same with training dataset)  
 ![feat_connection](<./fig/feature map connection.PNG>)
+
+### 3. RBF kernel
+  - output layer is composed of Euclidean radial basis function units(RBF)
+  - fixed parameter vectors(+1 or -1 only) from stylized image of the corresponding character class
+

@@ -4,7 +4,7 @@ LeNet-5 1988 version(pytorch)
 
 ## LeNet-5
 LeNet-5 is proposed by Yann LeCun in 1988. This model is a pioneer of image recognition models using convolutional neural networks.
-I want to reproduce this historical model as it was in 1998 with pytorch. The detailed description of LeNet-5_1998 is explained in [1](https://ieeexplore.ieee.org/abstract/document/726791) 
+I want to reproduce this historical model as it was in 1998 with pytorch. The detailed description of LeNet-5_1998 is explained in [[1]](https://ieeexplore.ieee.org/abstract/document/726791) 
 
 ## Structure
 ![structure](<./fig/structure.PNG>)

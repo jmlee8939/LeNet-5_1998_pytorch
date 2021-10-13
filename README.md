@@ -21,4 +21,4 @@ There are some details of model which can be easy to missed. Because those are n
   - In order to set the number of parameters to 60,000 (same with training dataset)
   
   
-![](fig/activation.png)
+![](fig/activation.png?raw=true)

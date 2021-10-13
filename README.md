@@ -14,12 +14,12 @@ There are some details of model which can be easy to missed. Because those are n
 
 ### 1. activation function  
   - scaled hyperbolic tangent function
-  - According to [1], LeNet-5 use scaled hyperbolic tangent function in order to prevent gradient vanishing problem.
+  - According to [1], LeNet-5 use scaled hyperbolic tangent function in order to prevent gradient vanishing problem.  
 ![activation_f](<./fig/activation_f.PNG>)
 
 ### 2. partial connected convolutional layer
   - Feature maps in Layer C3 are not fully connected with all feature maps from S2.
-  - In order to set the number of parameters to 60,000 (same with training dataset)  
+  - In order to set the number of parameters to 60,000 (same with training dataset)    
 ![feat_connection](<./fig/feature map connection.PNG>)
 
 ### 3. RBF kernel

@@ -14,7 +14,8 @@ There are some details of model which can be easy to missed. Because those are n
 
 ### 1. activation function  
   - scaled hyperbolic tangent function
-  - According to [1], LeNet-5 use scaled hyperbolic tangent function in order to prevent gradient vanishing problem.  
+  - According to [[1]](https://ieeexplore.ieee.org/abstract/document/726791) 
+, LeNet-5 use scaled hyperbolic tangent function in order to prevent gradient vanishing problem.  
 
 
 ![activation_f](<./fig/activation_f.PNG>)

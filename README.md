@@ -10,4 +10,4 @@ There are some details of model which can be easy to missed. Because those are n
 
 ### 1. activation function  
   - According to [1], LeNet-5 use scaled hyperbolic tangent function in order to prevent gradient vanishing problem.
-$f(a) = $
+<img src="https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} =x%2B1">

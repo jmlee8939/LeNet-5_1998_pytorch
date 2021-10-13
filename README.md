@@ -8,5 +8,5 @@ I want to reproduce this historical model as it was in 1998 with pytorch. The de
 ## Details to pay attention
 There are some details of model which can be easy to missed. Because those are not used in the recent convolutional models.
 
-- activation function
-  According to [1], LeNet-5 use modified hyperbolic tangent function.
+1. activation function  
+  - According to [1], LeNet-5 use modified hyperbolic tangent function.

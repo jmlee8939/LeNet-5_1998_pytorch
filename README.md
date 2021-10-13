@@ -21,4 +21,4 @@ There are some details of model which can be easy to missed. Because those are n
   - In order to set the number of parameters to 60,000 (same with training dataset)
   
   
-![activation_f](https://github.com/jmlee8939/LeNet-5_1998_pytorch/tree/main/fig/activation.png)
+![](fig/activation.png)
